@@ -1,1 +1,1 @@
-# weathrly-docker-aws
+# weathrly-docker-azure
